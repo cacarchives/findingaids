@@ -1,0 +1,4619 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-OkU" countrycode="US" identifier="ArchonInternalCollectionID:147">PP/068</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the John M. Meek Collection</titleproper>
+               <titleproper type="filing">Meek, John M. Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2017 Carl Albert Center Congressional and Political Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>630 Parrington Oval, Room 202B</addressline>
+                                 <addressline>Norman, OK, 73019-4031</addressline>
+                                 <addressline>URL: http://cacarchives.ou.edu</addressline>
+                                 <addressline>Email: cacarchives@ou.edu</addressline>
+                                 <addressline>Phone: 405-325-6372</addressline>
+                                 <addressline>Fax: 405-325-6419</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2017-03-27">March 27th, 2017</date>.</creation>
+                           <langusage encodinganalog="546">The collection description/finding aid is written in <language encodinganalog="041" langcode="eng">English</language></langusage>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the John M. Meek Collection
+                              <date normal="1934/1999" encodinganalog="260$c">1934/1999</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Carl Albert Center Congressional and Political Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">John M. Meek Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1934/1999">1934-1999</unitdate>
+                              <unitdate label="Bulk Dates" encodinganalog="245$g" type="bulk">1967-1968</unitdate>
+                  </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-OkU" countrycode="US">PP/068</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Meek, John M." source="lcnaf" role="Collector">Meek, John M.</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="Cubic Feet">5.50</extent></physdesc>
+            
+               <langmaterial encodinganalog="546" label="Language of Materials">
+            		<language encodinganalog="041" langcode="eng">English</language>
+               </langmaterial>
+                        <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Carl Albert Center Congressional and Political Collections</corpname>
+                              <address>
+                     <addressline>630 Parrington Oval, Room 202B</addressline>
+                                       <addressline>Norman, OK, 73019-4031</addressline>
+                                    <addressline>URL: http://cacarchives.ou.edu</addressline>
+                                    <addressline>Email: cacarchives@ou.edu</addressline>
+                                    <addressline>Phone: 405-325-6372</addressline>
+                                    <addressline>Fax: 405-325-6419</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+               <bioghist altrender="Biographical Information" encodinganalog="545"><head>Biographical Information:</head>
+                              <p>A native Oklahoman of Choctaw ancestry, John Martin Meek was one of the most successful public relations counselors in the Washington, D.C., area from 1969 to his relocation to Arizona in 1999. Following high school graduation, he served in the U.S. Navy and saw action during the Korean Conflict. After completing his military career, he attended the University of Oklahoma and graduated with a degree in journalism in 1958. He also received a master&#039;s degree from Syracuse University. During his newspaper career, he worked on newspapers in Oklahoma, Texas, and New York. In 1959, he became manager of the Community Development Department for the U.S. Junior Chamber of Commerce. Following the election of President John F. Kennedy, Meek moved to Washington where he served as press secretary to U.S. Senator Robert S. Kerr of Oklahoma. Following Kerr&#039;s unexpected death in 1963, he held the same position with Senator J. Howard Edmondson who was appointed to succeed Kerr.</p>
+                                       <p>During the 1964 Democratic National Convention, Meek was the assistant to the publicity director. In 1965, he held a similar position for the presidential inaugural. Shortly thereafter, he moved to the Democratic National Committee (DNC) and served as the director of congressional relations. As the chief liaison between the DNC and all Democratic members of Congress, he was involved in numerous activities related to the day-to-day operations of congressional offices. He became coordinator for the 1968 Democratic National Convention held in Chicago. In this position, he was responsible for many of the arrangements necessary for conducting the event.</p>
+                                       <p>Following the convention, he became a public relations counselor in Washington, D.C. During his years in the nation&#039;s capital, he was involved in numerous projects. In the late 1980s, he served as the counselor to the state of Arizona in its quest to become the site of the Superconducting Super Collider. He also worked on major national public education programs in health care for Glaxo Wellcome.</p>
+                                       <p>Since 1999, Meek has lived in Tucson, Arizona, where he continues to write and consult. He also is an adjunct professor at Pima Community College. His first novel, The Christmas Hour, is slated for publication in late 2002.</p>
+                           </bioghist>
+         
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcnaf">Clinton, Bill, 1946---Inauguration, 1993</subject>
+                                       <subject encodinganalog="650" source="lcnaf">Johnson, Lyndon B. (Lyndon Baines), 1908-1973--Inauguration</subject>
+                                       <subject encodinganalog="650" source="lcsh">Political campaigns--United States</subject>
+                                       <subject encodinganalog="650" source="lcsh">Political conventions--United States</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                              <userestrict encodinganalog="540">
+                           <head>Conditions Governing Use:</head>
+                                          <p>The University of Oklahoma asserts no claim of copyright over photographs in this collection taken by private citizens. Any publication of such photographs requires the consent of the copyright holder.</p>
+                              </userestrict>
+            </descgrp>
+
+                           <arrangement encodinganalog="351">
+                  <head>Arrangement of Materials:</head>
+                                 <p>This collection contains 4 series: Manuscripts, Oversize, Maps, and Photographs. The Manuscripts series is arranged alphabetically then chronologically by year, month, and day. The Oversized series is arranged into two groups: three-dimensional ephemera, paper ephemera. The Photographs series is arranged generally by year and grouped by event or content.</p>
+                        </arrangement>
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The John M. Meek Collection is a small collection which includes material on aspects of the organization of the 1968 Democratic National Convention, from hotel accommodations to first aid and security to requests from committees and entertainers to appear at the convention. While there is a copy of the proceedings of the convention, there is little else in the papers that relates to the event as it occurred. Most materials concern preliminary preparations for the convention. A small photograph collection is also included in the collection.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                        <!-- BEGIN SUBORDINATE COMPONENTS -->
+            <dsc type="combined">
+               <head>Detailed List of Contents</head>
+               <c01 level="series">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099756</unitid>
+               <unittitle>Manuscripts</unittitle>
+                  <unitdate>1934-1999</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_0000_0000_0000			</unitid>
+   </did>
+         <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099758</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">1</container>
+      <unittitle>Chicago, International Amphitheatre</unittitle>
+                  <unitdate>undated, 1951, 1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_1_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence: convention facilities; Chicago&#039;s bid agreements; data.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099759</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">2</container>
+      <unittitle>Chicago, International Amphitheatre</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_2_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence: convention facilities.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099760</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">3</container>
+      <unittitle>Clippings</unittitle>
+                  <unitdate>1948, 1963, 1966</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_3_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Election</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099761</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">4</container>
+      <unittitle>Clippings</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_4_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Site selection, Chicago.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099762</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">5</container>
+      <unittitle>Clippings</unittitle>
+                  <unitdate>1968-1969</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_5_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Convention; platform; protest threats.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099763</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">6</container>
+      <unittitle>Correspondence, General</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_6_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Convention dates, requests.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099764</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">7</container>
+      <unittitle>Correspondence, Political</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_7_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Candidates; civil liberties; Vietnam; Democratic Party platform; protesters, national anthem.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099765</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">8</container>
+      <unittitle>Credentials, Press</unittitle>
+                  <unitdate>1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_8_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Requests for press credentials. 1967-May 1968</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099766</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">9</container>
+      <unittitle>Credentials, Press, June-Aug.</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_9_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Requests for press credentials.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099767</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">10</container>
+      <unittitle>Delegates and Alternates</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_10_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Lists of state delegates and alternates.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099768</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">11</container>
+      <unittitle>Democratic National Committee</unittitle>
+                  <unitdate>1956, 1960-1966</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_11_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>List of committee chairmen; telephone numbers of state delegations&#039; headquarters; account information.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099769</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">12</container>
+      <unittitle>Democratic National Committee</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_12_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Call for meetings; lists of committee members; speech (unknown speaker); dinner invitations to committee members; committee member schedules; committee member reservations; committee meeting minutes.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099770</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">13</container>
+      <unittitle>Democratic National Committee, Jan.-May</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_13_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Speech by John M. Bailey; allotted votes and delegates per state delegation; reservations for committee meetings; meeting agendas; schedules and calendars; committee resolutions; activity reports by John M. Meek; biographical sketch of John M. Meek.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099771</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">14</container>
+      <unittitle>Democratic National Committee, June-Sept.</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_14_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Chicago students and volunteer participation; proclamation from Chicago Sun-Times, Chicago Daily News; correspondence with state delegates; receipts; committee accounts with hotels; United Democrats for Humphrey; possible demonstrations; statement by Sen. Eugene McCarthy; Booklet: Temporary Roll of Delegates and Alternates to the Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099772</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">15</container>
+      <unittitle>Democratic National Committee, Committee on Credentials</unittitle>
+                  <unitdate>1963-1964, 1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_15_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Credentials, design; convention badges; minority reports on Credentials Committee; list of Democratic congressmen; Credentials Committee and civil rights.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099773</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">16</container>
+      <unittitle>Democratic National Committee, Headquarters</unittitle>
+                  <unitdate>1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_16_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Bills; receipts; and account information.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099774</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">17</container>
+      <unittitle>Democratic National Committee, Media Conference</unittitle>
+                  <unitdate>1963-1964, 1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_17_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Media requirements for coverage of convention; agenda for the meeting of representatives of the news media and communications services; schedule of conference.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099775</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">18</container>
+      <unittitle>Democratic National Committee, Media Conference, Stenographic Report</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_18_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Report of the proceedings of December 7, 1967.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099776</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">19</container>
+      <unittitle>Democratic National Committee, Memos</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_19_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Memos concerning work space and housing, delegations, volunteers, new staff; John Meek&#039;s activities; information and suggestions on office services; convention identification and tickets.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099777</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">20</container>
+      <unittitle>Democratic National Committee, Press Releases</unittitle>
+                  <unitdate>1963-1964, 1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_20_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Press releases concerning the allocation of delegates; Chicago convention site; street crime; Lyndon B. Johnson. (1967-July 1968).</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099778</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">21</container>
+      <unittitle>Democratic National Committee, Press Releases, Aug.-Sept</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_21_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Headquarter space for candidates; work space and housing; convention session schedules; Carl Albert; Chicago host committee.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099779</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">22</container>
+      <unittitle>Democratic National Committee, Site Committee</unittitle>
+                  <unitdate>[1967]</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_22_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Travel reservations for Site Committee; lists of committee members; committee reports.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099780</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">23</container>
+      <unittitle>Democratic National Committee, Site Committee</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_23_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Arrangements for meetings; schedule of Site Selection Committee meeting; Committee travel schedules.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099781</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">24</container>
+      <unittitle>Democratic National Committee, Site Committee, Meeting Transcript</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_1_24_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Meeting of April 11, 1967.</p>
+                     </scopecontent>
+            
+</c02>
+   
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099783</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">1</container>
+      <unittitle>Democratic Party Platform Committee</unittitle>
+                  <unitdate>1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_1_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Requests by organizations to appear before the committee, including American Congress for Irish Freedom, National Federation of Independent Business, National Council on Crime and Delinquency, National Association of Life Underwriters, and Veterans of Foreign Wars; correspondence concerning a bill of rights for victims of crime and electoral college reform; work space for committee; lists of committee members. (1967-Mar. 1968)</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099784</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">2</container>
+      <unittitle>Democratic Party Platform Committee, May-Aug</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_2_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Requests by organizations to appear before the committee, including Women&#039;s International League for Peace and Freedom, National Council of the Churches of Christ, National Federation of Settlements and Neighborhood Centers, American Israel Public Affairs Committee, National Council of Farmer Cooperatives, Association of American Medical Colleges, Business Executives Move for Vietnam Peace, Paralyzed Veterans of America, Inc., National Canners Association, Sierra Club, National Federation of Federal Employees, Federation of American Scientists; correspondence from World Association of Mothers for Peace, Inc.; Carl Albert; public hearings; meeting schedules; copy of the 1968 platform of the Democratic Party.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099785</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">3</container>
+      <unittitle>Employment and Appointment</unittitle>
+                  <unitdate>1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_3_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence asking for work or appointment at the Democratic National Convention. Referrals included.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099786</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">4</container>
+      <unittitle>Entertainment and Convention Program</unittitle>
+                  <unitdate>1964, 1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_4_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence concerning musical entertainment, honorary speakers, fireworks; 1964 Democratic National Convention Program; requests to add special events to program. (1967-Mar. 1968)</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099787</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">5</container>
+      <unittitle>Entertainment and Convention Program, Apr.-Aug.</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_5_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence concerning musical entertainment, honorary attendees, special events. Among the correspondents are Charles C. Diggs and John Conyers.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099788</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">6</container>
+      <unittitle>Food</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_6_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence concerning arrangements for food service at convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099789</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">7</container>
+      <unittitle>Illinois Bell Telephone Company, Strike</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_7_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Telephone requirements for Democratic National Committee at Hilton Hotel; International Brotherhood of Electrical Workers strike.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099790</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">8</container>
+      <unittitle>Insurance</unittitle>
+                  <unitdate>1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_8_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Insurance requirements at the International Amphitheatre.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099791</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">9</container>
+      <unittitle>Media</unittitle>
+                  <unitdate>1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_9_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Lighting, sound, and basic facilities for convention and press.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099792</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">10</container>
+      <unittitle>Novelties</unittitle>
+                  <unitdate>1952, 1964, 1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_10_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence concerning miscellaneous items that were produced solely for the convention, including posters, buttons, ribbons, dress for pages; purple badge from the 1952 Democratic National Convention for the Assistant Sergeant At Arms.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099793</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">11</container>
+      <unittitle>Office Equipment and Furnishings, Decoration and Services</unittitle>
+                  <unitdate>undated, 1964, 1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_11_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence from companies offering services and products; lists of requirements; orders from companies. (1967-1968 Jan.)</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099794</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">12</container>
+      <unittitle>Office Equipment and Furnishings, Decoration and Services, Feb.-May</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_12_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence from companies offering services and products; orders from companies.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099795</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">13</container>
+      <unittitle>Office Equipment and Furnishings, Decoration and Services, June-Aug</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_13_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence from companies offering services and products; orders from companies.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099796</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">14</container>
+      <unittitle>Press</unittitle>
+                  <unitdate>1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_14_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Convention press kit; correspondence concerning coverage of convention from United Press, International, Life, Chicago Sun-Times, and WGN.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099797</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">15</container>
+      <unittitle>Seating Arrangements</unittitle>
+                  <unitdate>undated, 1956, 1960, 1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_15_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence concerning seating at Amphitheatre.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099798</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">16</container>
+      <unittitle>Security</unittitle>
+                  <unitdate>undated, 1964, 1966-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_16_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence concerning the responsibility of Democratic National Committee and the city of Chicago concerning security; various security companies offering their services and products; turnstiles; fencing; identification; tickets; arrangements for &quot;security rooms&quot; for the President, Vice-President, and Sen. Eugene McCarthy; riot control issues; Timothy Leary; Allen Ginsberg; Hippies; Yippies; Black Panthers; statement from Richard J. Daley.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099799</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">17</container>
+      <unittitle>Site Selection, Houston</unittitle>
+                  <unitdate>1966-1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_17_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence, maps, and proposals dealing with the Site Selection Committee meeting in Houston to explore the possibility of Houston for the 1968 Democratic National Convention; list of persons &quot;instrumental in hosting the Democratic Site Committee&quot; visit; committee itinerary. (1966-April 1967)</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099800</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">18</container>
+      <unittitle>Site Selection, Houston, May-Oct.</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_18_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence, maps, and proposals dealing with the Site Selection Committee meeting to explore the possibility of Houston as the site for the 1968 Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099801</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">19</container>
+      <unittitle>Site Selection, Las Vegas</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_19_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence and invitations dealing with the Site Selection Committee meeting to explore the possibility of Las Vegas as the site for the 1968 Democratic National Convention; correspondents include Howard W. Cannon and Alan Bible.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099802</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">20</container>
+      <unittitle>Site Selection, Los Angeles</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_20_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence, maps, plans, and proposals dealing with the Site Selection Committee meeting to explore the possibility of Los Angeles as the site for the 1968 Democratic National Convention; resolution from the County of Los Angeles Board of Supervisors to invite the convention to Los Angeles; correspondents include Sam Yorty, mayor of Los Angeles</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099803</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">21</container>
+      <unittitle>Site Selection, Miami Beach</unittitle>
+                  <unitdate>1966-1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_21_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence, plans, and proposals dealing with the Site Selection Committee meeting to explore the possibility of Miami Beach as the site for the 1968 Democratic National Convention; issue of state of Florida being placed under professional sanctions by the Florida Education Association and the National Education Association; correspondents include Charles E. Bennett and Claude R. Kirk, Jr. (governor of Florida).</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099804</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">22</container>
+      <unittitle>Speeches/ Proceedings, Compilation (1 of 5)</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_22_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Compilation of speeches and proceedings made at the convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099805</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">23</container>
+      <unittitle>Speeches/Proceedings, Compilation (2 of 5)</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_23_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Compilation of speeches and proceedings made at the convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099806</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">24</container>
+      <unittitle>Speeches/Proceedings, Compilation (3 of 5)</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_24_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Compilation of speeches and proceedings made at the convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099807</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">25</container>
+      <unittitle>Speeches/Proceedings, Compilation (4 of 5)</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_25_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Compilation of speeches and proceedings made at the convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099808</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">26</container>
+      <unittitle>Speeches/Proceedings, Compilation (5 of 5)</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_26_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Compilation of speeches and proceedings made at the convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099809</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">27</container>
+      <unittitle>Tickets, Printing</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_27_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Proposals from ticket printing services; example of convention ticket.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099810</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">28</container>
+      <unittitle>Tickets and Passes</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_2_28_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence dealing with requests for tickets and passes.</p>
+                     </scopecontent>
+            
+</c02>
+   
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099812</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">1</container>
+      <unittitle>Tickets and Passes, Jan.-Mar.</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_1_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence dealing with requests for tickets and passes.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099813</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">2</container>
+      <unittitle>Tickets and Passes, Apr.</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_2_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence dealing with requests for tickets and passes.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099814</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">3</container>
+      <unittitle>Tickets and Passes, May</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_3_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence dealing with requests for tickets and passes.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099815</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">4</container>
+      <unittitle>Tickets and Passes, June</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_4_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence dealing with requests for tickets and passes.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099816</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">5</container>
+      <unittitle>Tickets and Passes, July</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_5_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence dealing with requests for tickets and passes.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099817</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">6</container>
+      <unittitle>Tickets and Passes, Aug.</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_6_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence dealing with requests for tickets and passes.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099818</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">7</container>
+      <unittitle>Transportation</unittitle>
+                  <unitdate>1964, 1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_7_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence dealing with transportation for the convention; possible transit strikes; American Airlines; group travel accommodations; baggage tags; VIP transportation; staff cars.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099819</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">8</container>
+      <unittitle>Volunteers, Legal and Medical</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_8_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence dealing with professionals who wanted to volunteer their legal or medical skills during the convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099820</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">9</container>
+      <unittitle>Volunteers, Pages</unittitle>
+                  <unitdate>1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_9_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence dealing with individuals who wanted to volunteer their time as pages at the convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099821</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">10</container>
+      <unittitle>Volunteers, Guards, Ushers and General Volunteers</unittitle>
+                  <unitdate>1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_10_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence dealing with individuals who wanted to volunteer their time as guards, ushers or other unspecified volunteer positions at the convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099822</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">11</container>
+      <unittitle>Women and Minorities</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_11_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence concerning the rights of women and minorities in the Democratic Party Platform and Convention; Mississippi delegation; convention activities for &quot;the wives&quot; and scheduled &quot;women&#039;s activities&quot;; government programs and minorities; underprivileged.; press release by Democratic National Committee about the attendance of African-American delegates; correspondents include Betty Friedan, president of the National Organization for Women.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099823</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">12</container>
+      <unittitle>Work Space and Housing</unittitle>
+                  <unitdate>undated, 1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_12_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence and requests for work space and housing; includes delegations, Democratic National Committee, the press, and individuals.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099824</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">13</container>
+      <unittitle>Work Space and Housing, Jan.-Mar</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_13_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence and requests for work space and housing; includes delegations, Democratic National Committee, the press, and individuals.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099825</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">14</container>
+      <unittitle>Work Space and Housing, Apr.-May</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_14_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence and requests for work space and housing; includes delegations, Democratic National Committee, the press, and individuals.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099826</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">15</container>
+      <unittitle>Work Space and Housing, June 4-21</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_15_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence and requests for work space and housing; includes delegations, Democratic National Committee, the press, and individuals.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099827</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">16</container>
+      <unittitle>Work Space and Housing, June 24-28</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_16_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence and requests for work space and housing; includes delegations, Democratic National Committee, the press, and individuals.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099828</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">17</container>
+      <unittitle>Work Space and Housing, July</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_17_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence and requests for work space and housing; includes delegations, Democratic National Committee, the press, and individuals.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099829</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">18</container>
+      <unittitle>Work Space and Housing, Aug</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_18_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence and requests for work space and housing; includes delegations, Democratic National Committee, the press, and individuals.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099830</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">19</container>
+      <unittitle>Youth</unittitle>
+                  <unitdate>1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_19_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Correspondence dealing with Young Democrats, foreign students and youth groups at the Convention; schedule of youth activities.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099831</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">20</container>
+      <unittitle>Democratic National Convention, Contract</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_20_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Materials in Folders 20-25 were donated to the Carl Albert Center in the Summer of 2009 by John M. Meek.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099832</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">21</container>
+      <unittitle>Democratic National Convention, Speeches</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_21_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Includes vice presidential acceptance speech by Edmund S. Muskie titled &quot;Working for Freedom&quot; and presidential acceptance speech by Hubert H. Humphrey titled &quot;A New Day for America.&quot; Materials in Folders 20-25 were donated to the Carl Albert Center in the Summer of 2009 by John M. Meek.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099833</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">22</container>
+      <unittitle>Democratic National Convention, Telephone Numbers</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_22_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Materials in Folders 20-25 were donated to the Carl Albert Center in the Summer of 2009 by John M. Meek.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099834</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">23</container>
+      <unittitle>Johnson, Lyndon B., Miscellaneous</unittitle>
+                  <unitdate>1964-1965, 1978, 1999</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_23_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Includes One Nation, One People: Democratic Platform, 1964; press kit for the Inaugural Committee, 1965; official inaugural program, January 20, 1965; The Democrat, April-May 1968; and Among Friends of LBJ, April 30, 1999. Materials in Folders 20-25 were donated to the Carl Albert Center in the Summer of 2009 by John M. Meek.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099835</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">24</container>
+      <unittitle>Meek, John, Miscellaneous</unittitle>
+                  <unitdate>undated, 1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_24_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Includes biographical sketch and notes written after the 1968 Democratic National Convention. Materials in Folders 20-25 were donated to the Carl Albert Center in the Summer of 2009 by John M. Meek.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099836</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">25</container>
+      <unittitle>Republican National Convention</unittitle>
+                  <unitdate>1967-1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_1_3_25_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Includes contract with the city of Miami Beach, Florida; and badges for convention. Materials in Folders 20-25 were donated to the Carl Albert Center in the Summer of 2009 by John M. Meek.</p>
+                     </scopecontent>
+            
+</c02>
+   
+   
+</c01>
+   <c01 level="series">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099837</unitid>
+               <unittitle>Oversized</unittitle>
+                  <unitdate>1934-1999</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_0000_0000_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Boxes 4, 5, and 6 were donated to the Carl Albert Center in the Summer of 2009 by John M. Meek</p>
+                     </scopecontent>
+            <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099839</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Honored Guest Badge (2)</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_1			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099840</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Newsreel Badge</unittitle>
+                  <unitdate>1952</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_2			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099841</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Page Badge (2</unittitle>
+                  <unitdate>1964</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_3			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099842</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Honored Guest Badge</unittitle>
+                  <unitdate>1964</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_4			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099843</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Western Union Badge</unittitle>
+                  <unitdate>1952</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_5			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099844</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Assistant Sergeant at Arms Badge</unittitle>
+                  <unitdate>1956</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_6			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099845</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Delegate Key</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_7			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099846</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Tie Tacks (3) and Cuff Links (2 sets)</unittitle>
+                  <unitdate>[undated]</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_8			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099847</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Bracelets (3)</unittitle>
+                  <unitdate>[undated]</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_9			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099848</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Tie Tacks (4) with name &quot;Shapiro.&quot;</unittitle>
+                  <unitdate>[undated]</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_10			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099849</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Assistant Sergeant at Arms Badge</unittitle>
+                  <unitdate>1952</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_11			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099850</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Souvenir Coins (2)</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_12			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Celebrating the Illinois Sesquicentennial in 1968.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099851</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Oklahoma Bumper Stickers</unittitle>
+                  <unitdate>[undated]</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_13			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099852</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Tickets to the 1956 Democratic National Convention</unittitle>
+                  <unitdate>1956</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_14			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099853</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Tickets to the 1964 Democratic National Convention</unittitle>
+                  <unitdate>1964</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_15			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099854</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Miscellaneous Press Badges</unittitle>
+                  <unitdate>1964</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_16			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099855</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Ticket and Press Badge</unittitle>
+                  <unitdate>1972</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_17			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099856</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Badge for the United Democrats for Humphrey</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_18			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099857</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Miscellaneous Page and Staff Tickets</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_4_0000_19			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099859</unitid>
+         	<container type="Box">5</container>
+      <unittitle>Plastic Tote Bags (2)</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_5_0000_1			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Democratic National Convention.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099860</unitid>
+         	<container type="Box">5</container>
+      <unittitle>Notebook with Donkey Caricature.</unittitle>
+                  <unitdate>[undated]</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_5_0000_2			</unitid>
+   </did>
+         
+</c02>
+   
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099862</unitid>
+         	<container type="Box">6</container>
+      <unittitle>Evening Star [Washington, D.C.] January 20</unittitle>
+                  <unitdate>1965</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_6_0000_1			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>focus on the inauguration of Lyndon B. Johnson.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099863</unitid>
+         	<container type="Box">6</container>
+      <unittitle>Astrodome</unittitle>
+                  <unitdate>1966</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_6_0000_2			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>commemorative program.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099864</unitid>
+         	<container type="Box">6</container>
+      <unittitle>1964 Democratic National Convention</unittitle>
+                  <unitdate>1964</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_6_0000_3			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099865</unitid>
+         	<container type="Box">6</container>
+      <unittitle>Democrats in Convention 1972</unittitle>
+                  <unitdate>1972</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_6_0000_4			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099866</unitid>
+         	<container type="Box">6</container>
+      <unittitle>Democratic National Convention 1968 Chicago</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_6_0000_5			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099867</unitid>
+         	<container type="Box">6</container>
+      <unittitle>Look, December 31</unittitle>
+                  <unitdate>1963</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_6_0000_6			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099868</unitid>
+         	<container type="Box">6</container>
+      <unittitle>Life, July 5</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_2_6_0000_7			</unitid>
+   </did>
+         
+</c02>
+   
+   
+</c01>
+   <c01 level="series">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099869</unitid>
+               <unittitle>Maps</unittitle>
+                  <unitdate>1934-1999</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_0000_0000			</unitid>
+   </did>
+         <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099870</unitid>
+         	<container type="Folder">1</container>
+   </did>
+         <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099871</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>Plot Plan for International Amphitheatre, Stockyard Inn, Chicago, Illinois</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_1			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>78&quot; x 33&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099872</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre Press Seating</unittitle>
+                  <unitdate>1956</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_2			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>24.5&quot; x 17&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099873</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>General Amphitheatre Plan View</unittitle>
+                  <unitdate>1956</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_3			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>22&quot; x 17.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099874</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>Lecturn Elevation View &amp; Press Line of Sight</unittitle>
+                  <unitdate>1956</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_4			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>22&quot; x 17.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099875</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>Balcony Platform &amp; Sight Lines</unittitle>
+                  <unitdate>1956</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_5			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>22&quot; x 17.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099876</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>Conrad Hilton Hotel, Exhibition Hall, Space Allocation</unittitle>
+                  <unitdate>1956</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_6			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>18&quot; x 14&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099877</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre Exposition Hall</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_7			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>42&quot; x 30&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099878</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre CBS News Special Events Unit</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_8			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>25&quot; x 21&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099879</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>Democratic National Convention, International Amphitheatre</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_9			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>11&quot; x 10.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099880</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Second Floor Plan</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_10			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>16&quot; x 11&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099881</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_11			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>24&quot; x 20&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099882</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre Broadcasters Space Allocation Layout</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_12			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>53.5&quot; x 17.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099883</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Proposed Broadcasters Work Space</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_13			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>29&quot; x 9&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099884</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>Preliminary Conception Drawing of Network Anchor Booth Locations for Democratic National Convention</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_14			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>27&quot; x 35&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099885</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_15			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>52&quot; x 17&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099886</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>Proposed Space Assignment</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_16			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>54&quot; x 17&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099887</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Second Floor Plan</unittitle>
+                  <unitdate>1940</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_17			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>45.5&quot; x 30&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099888</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Section Views</unittitle>
+                  <unitdate>1934</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_18			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>42&quot; x 27.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099889</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Balcony Seating Plan</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_19			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>43&quot; x 35&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099890</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_20			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>22&quot; x 17&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099891</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Republican Convention</unittitle>
+                  <unitdate>1960</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_21			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>42&quot; x 31&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099892</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, First Floor, Arena Section, South Wing</unittitle>
+                  <unitdate>1948</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_22			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>29&quot; x 19&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099893</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Second Floor, North Wing</unittitle>
+                  <unitdate>1936</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_23			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>28&quot; x 18.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099894</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, First Floor, North Wing</unittitle>
+                  <unitdate>1936</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_23B			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>28&quot; x 18.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099895</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Second Floor, South Wing</unittitle>
+                  <unitdate>1947</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_24			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>28&quot; x 19&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099896</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, First Floor, South Wing</unittitle>
+                  <unitdate>1936</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_25			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>28&quot; x 19&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099897</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_26			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>22&quot; x 17&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099898</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Exposition Hall</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_27			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>21&quot; x 13&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099899</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Second Floor Plan</unittitle>
+                  <unitdate>1940</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_28			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>16&quot; x 10.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099900</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, First Floor Plan</unittitle>
+                  <unitdate>1939</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_29			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>17&quot; x 11&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099901</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Exposition Hall</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_30			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>40&quot; x 30&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099902</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Second Floor Plan</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_31			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>40&quot; x 24.75&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099903</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Seating Plan, Main floor, Mezzanine, and Balcony</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_32			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>22&quot; x 17&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099904</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, South Hall</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_33			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>39&quot; x 30&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099905</unitid>
+         	<container type="Folder">1</container>
+      <unittitle>International Amphitheatre, Exposition Hall</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_1_34			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>30&quot; x 42.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099906</unitid>
+         	<container type="Folder">2</container>
+   </did>
+         <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099907</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Large tally sheet for 1968 convention state delegation</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_1			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>32&quot; x 27&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099908</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Illinois Bell Telephone Company, Daily Convention Directory</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_2A			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>12&quot; x 12&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099909</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Illinois Bell Telephone Company, Daily Convention Directory</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_0000_2B			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>12&quot; x 12&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099910</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Map of seating at Amphitheatre</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_3			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>11&quot; x 24&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099911</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Ground floor plans for expansion of Convention Hall, Miami Beach</unittitle>
+                  <unitdate>1966</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_4			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>18&quot; x 12&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099912</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Seating Arrangement for Democratic National Convention, Miami Beach</unittitle>
+                  <unitdate>[1967]</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_5A			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>42&quot; x 36&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099913</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Seating Arrangement for Democratic National Convention, Miami Beach</unittitle>
+                  <unitdate>[1967]</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_0000_5B			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>42&quot; x 36&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099914</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Various maps of hotels located near Convention Hall</unittitle>
+                  <unitdate>[1967]</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_6A			</unitid>
+   </did>
+         
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099915</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Various maps of hotels located near Convention Hall</unittitle>
+                  <unitdate>[1967]</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_0000_7B			</unitid>
+   </did>
+         
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099916</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Expansion of Commuter Hall</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_7A			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>22&quot; x 18&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099917</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Basement Plan of Conrad Hilton Hotel, Chicago</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_8A			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>32&quot; x 15&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099918</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Basement Plan of Conrad Hilton Hotel, Chicago</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_0000_8B			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>32&quot; x 15&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099919</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Ground Plat Southeast Corner-Halsted &amp; Exchange</unittitle>
+                  <unitdate>1939</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_9			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>24.5&quot; x 24.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099920</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Space Allocation for Democratic National Convention</unittitle>
+                  <unitdate>1956</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_10			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>18&quot; x 14&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099921</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Work Space at Exhibition Hall, Conrad Hilton Hotel</unittitle>
+                  <unitdate>1956</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_11			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>17.5&quot; x 19.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099922</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Presidential Suite, 2nd Floor, Boys&#039; and Girls&#039; Club Building, Stockyard Inn</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_12			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>32.5&quot; x 23&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099923</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Advertising fold-out for Los Angeles Memorial Sports Arena</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_13			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>11&quot; x 24&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099924</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Peristyle Platforming Plan View, Democratic Convention</unittitle>
+                  <unitdate>1960</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_14			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>24&quot; x 22.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099925</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Los Angeles Sports Arena, Seating</unittitle>
+                  <unitdate>1959</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_15			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>29&quot; x 20&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099926</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Alterations to Sports Arena for Democratic National Convention</unittitle>
+                  <unitdate>1960</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_16			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>35.5&quot; x 30.5&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   <c03 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099927</unitid>
+         	<container type="Folder">2</container>
+      <unittitle>Democratic National Convention, Delegate Seating Plan</unittitle>
+                  <unitdate>1960</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_3_0000_2_17			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>17.5&quot; x 9&quot;</p>
+                     </scopecontent>
+            
+</c03>
+   
+</c02>
+   
+</c01>
+   <c01 level="series">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099928</unitid>
+               <unittitle>Photographs</unittitle>
+                  <unitdate>1952-1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_0000_0000_0000			</unitid>
+   </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>This series consists of 213 items.</p>
+                     </scopecontent>
+            <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099930</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Close-up of John Martin Meek</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_1			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099931</unitid>
+         	<container type="Box">1</container>
+      <unittitle>International Amphitheater</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_2a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099932</unitid>
+         	<container type="Box">1</container>
+      <unittitle>International Amphitheater</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_2b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099933</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic National Convention</unittitle>
+                  <unitdate>1952</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_3			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099934</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Illinois Bell Telephone Company&#039;s &quot;Dandy Dem&quot; and anti-strike captions</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_4a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099935</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Illinois Bell Telephone Company&#039;s &quot;Dandy Dem&quot; and anti-strike captions</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_4b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099936</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Illinois Bell Telephone Company&#039;s &quot;Dandy Dem&quot; and anti-strike captions</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_4c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099937</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Hotels and hotel signs in Houston</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_5a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099938</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Hotels and hotel signs in Houston</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_5b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099939</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Hotels and hotel signs in Houston</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_5c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099940</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Hotels and hotel signs in Houston</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_5d			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099941</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Hotels and hotel signs in Houston</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_5e			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099942</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Hotels and hotel signs in Houston</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_5f			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099943</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Inside the Astrodome</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_6a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099944</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Inside the Astrodome</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_6b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099945</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Inside the Astrodome</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_6c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099946</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Inside the Astrodome</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_6d			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099947</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Inside the Astrodome</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_6e			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099948</unitid>
+         	<container type="Box">1</container>
+      <unittitle>DNC Site Selection Committee visiting NASA Manned Spacecraft Center in Houston</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_7a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099949</unitid>
+         	<container type="Box">1</container>
+      <unittitle>DNC Site Selection Committee visiting NASA Manned Spacecraft Center in Houston</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_7b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099950</unitid>
+         	<container type="Box">1</container>
+      <unittitle>DNC Site Selection Committee visiting NASA Manned Spacecraft Center in Houston</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_7c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099951</unitid>
+         	<container type="Box">1</container>
+      <unittitle>DNC Site Selection Committee visiting NASA Manned Spacecraft Center in Houston</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_7d			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099952</unitid>
+         	<container type="Box">1</container>
+      <unittitle>DNC Site Selection Committee visiting NASA Manned Spacecraft Center in Houston</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_7e			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099953</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Camera Stands</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_8a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099954</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Camera Stands</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_8b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099955</unitid>
+         	<container type="Box">1</container>
+      <unittitle>John Meek at a Cor-Plex preview</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_9			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099956</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The &quot;Perambulator,&quot; a camera device</unittitle>
+                  <unitdate>1968</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_10			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099957</unitid>
+         	<container type="Box">1</container>
+      <unittitle>AstroWorld&#039;s Manager, Designer, Roy Hofheinz (owner), and the Hofheinz family</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_11a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099958</unitid>
+         	<container type="Box">1</container>
+      <unittitle>AstroWorld&#039;s Manager, Designer, Roy Hofheinz (owner), and the Hofheinz family</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_11b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099959</unitid>
+         	<container type="Box">1</container>
+      <unittitle>AstroWorld&#039;s Manager, Designer, Roy Hofheinz (owner), and the Hofheinz family</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_11c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099960</unitid>
+         	<container type="Box">1</container>
+      <unittitle>AstroWorld&#039;s Manager, Designer, Roy Hofheinz (owner), and the Hofheinz family</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_11d			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099961</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099962</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099963</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099964</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12d			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099965</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12e			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099966</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12f			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099967</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12g			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099968</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12h			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099969</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12i			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099970</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12j			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099971</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12k			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099972</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12l			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099973</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12m			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099974</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Drawings and models, as well as actual construction photos of AstroWorld</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_12n			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099975</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Forum in Los Angeles</unittitle>
+                  <unitdate>1967</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_13			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099976</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Convention hall in Chicago, site of the 1944 Democratic Convention</unittitle>
+                  <unitdate>undated</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_14			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099977</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Jim Hartz of Tulsa, former host of NBC&#039;s &quot;Today Show,&quot; second from the right with friends</unittitle>
+                  <unitdate>1991</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_15			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099978</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099979</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099980</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099981</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16d			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099982</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16e			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099983</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16f			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099984</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16g			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099985</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16h			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099986</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16i			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099987</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16j			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099988</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16k			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099989</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16l			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099990</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16m			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099991</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16n			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099992</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16o			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099993</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16p			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099994</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16q			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099995</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16r			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099996</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Transition Offices</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_16s			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099997</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099998</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1099999</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100000</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17d			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100001</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17e			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100002</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17f			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100003</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17g			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100004</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17h			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100005</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17i			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100006</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17j			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100007</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17k			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100008</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17l			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100009</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17m			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100010</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17n			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100011</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17o			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100012</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Nitty Gritty Dirt Band performing in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_17p			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100013</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100014</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100015</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100016</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18d			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100017</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18e			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100018</unitid>
+         	<container type="Box">1</container>
+      <unittitle>John Martin Meek with Jane Demarines</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18f			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100019</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Judy Woodruff, CNN</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18g			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100020</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Molly Ivins</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18h			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100021</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Molly Ivins</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18i			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100022</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18j			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100023</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18k			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100024</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18l			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100025</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18m			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100026</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18n			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100027</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18o			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100028</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18p			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100029</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18q			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100030</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18r			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100031</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18s			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100032</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18t			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100033</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18u			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100034</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18v			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100035</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18w			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100036</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18x			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100037</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night in Little Rock, Arkansas</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_18y			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100038</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_19a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100039</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_19b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100040</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_19c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100041</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_19d			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100042</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_19e			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100043</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_19f			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100044</unitid>
+         	<container type="Box">1</container>
+      <unittitle>John Martin Meek</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_19g			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100045</unitid>
+         	<container type="Box">1</container>
+      <unittitle>John Martin Meek</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_19h			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100046</unitid>
+         	<container type="Box">1</container>
+      <unittitle>John Martin Meek</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_19i			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100047</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Election Night</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_19j			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100048</unitid>
+         	<container type="Box">1</container>
+      <unittitle>The Old State Capitol building</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100049</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Wolf Blitzer, CNN</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100050</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Wolf Blitzer, CNN</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100051</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20d			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100052</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20e			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100053</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20f			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100054</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20g			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100055</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20h			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100056</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20i			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100057</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20j			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100058</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20k			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100059</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20l			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100060</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20m			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100061</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20n			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100062</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20o			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100063</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20p			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100064</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20q			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100065</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20r			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100066</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20s			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100067</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20t			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100068</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20u			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100069</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20v			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100070</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20w			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100071</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20x			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100072</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20y			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100073</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20z			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100074</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20aa			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100075</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ab			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100076</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ac			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100077</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ad			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100078</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ae			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100079</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20af			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100080</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ag			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100081</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ah			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100082</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ai			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100083</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20aj			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100084</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ak			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100085</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20al			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100086</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20am			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100087</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20an			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100088</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ao			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100089</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ap			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100090</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20aq			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100091</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ar			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100092</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20as			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100093</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20at			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100094</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20au			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100095</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20av			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100096</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20aw			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100097</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ax			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100098</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ay			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100099</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20az			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100100</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20ba			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100101</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Democratic Congressional Leaders</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_20bb			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100102</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Former Oklahoma Governor George Nigh</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_21a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100103</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Daily Oklahoman&#039;s Washington, D.C. bureau chief Allan Cromley (left) and former NBC &quot;Today Show&quot; host Jim Hartz (right)</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_21b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100104</unitid>
+         	<container type="Box">1</container>
+      <unittitle>John Meek with guest</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_21c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100105</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Julian Rothbaum (second from the left) and John Meek (second from the right)</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_21d			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100106</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100107</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100108</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100109</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22d			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100110</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22e			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100111</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22f			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100112</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22g			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100113</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22h			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100114</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22i			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100115</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22j			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100116</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22k			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100117</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22l			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100118</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22m			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100119</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22n			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100120</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22o			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100121</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22p			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100122</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22q			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100123</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22r			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100124</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22s			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100125</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22t			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100126</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22u			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100127</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22v			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100128</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22w			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100129</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22x			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100130</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22y			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100131</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22z			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100132</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Clinton/Gore Inaugural Event</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_22aa			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100133</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Mrs. Tom Petit, Tom Petit, Mary Dorman, and Bill Danoff</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_23a			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100134</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Jim Bohannon</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_23b			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100135</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Former Oklahoma Governor George Nigh (far right)</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_23c			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100136</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Former Oklahoma first lady Donna Nigh, Jan Scruggs, and other guests</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_23d			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100137</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Tom Petit, Mrs. Tom Petit, Tulsa Attorney, Mary Dorman, and George Nigh</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_23e			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100138</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Bill Danoff and guest.</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_23f			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100139</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Former first lady Donna Nigh facing camera</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_23g			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100140</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Guests, John Meek&#039;s Inaugural Party</unittitle>
+                  <unitdate>1993</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_23h			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100141</unitid>
+         	<container type="Box">1</container>
+      <unittitle>DeeDee Myers, Press Aide</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_24			</unitid>
+   </did>
+         
+</c02>
+   <c02 level="item">
+   <did>
+      <unitid label="ArchonID" audience="internal">id1100142</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Ann Edwards, chief press advance person</unittitle>
+                  <unitdate>1992</unitdate>
+            			<unitid label="UnitID">CAC_PP_068_4_1_0000_25			</unitid>
+   </did>
+         
+</c02>
+   
+   
+</c01>
+   
+            </dsc>
+               <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+
